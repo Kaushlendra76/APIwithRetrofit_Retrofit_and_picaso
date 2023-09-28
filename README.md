@@ -15,3 +15,6 @@
 9. Note internet permission is enable for fecting the data
 10. create a adapter class for binding the data and Ui in the application
 11. Create a recycler view and text view for the Showing API data in the application.
+
+![WhatsApp Image 2023-09-28 at 09 53 19](https://github.com/Kaushlendra76/APIwithRetrofit_Retrofit_and_picaso/assets/84301459/9f6fbd72-347e-4558-a930-ad18687aac2d)
+
